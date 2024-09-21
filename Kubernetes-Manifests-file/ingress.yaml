@@ -11,7 +11,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: bvmkhappylearning.study
+    - host: bvmkhappylearning.cloud
       http:
         paths:
           - path: /api
